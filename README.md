@@ -1,4 +1,4 @@
-# Scheduler API (JSP)
+# Scheduler API (JPA)
 
 ## API 명세서
 
