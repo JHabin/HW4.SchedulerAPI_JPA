@@ -21,7 +21,7 @@
 
 ---
 ## ERD 설계
-
+![ERD](Scheduler_ERD.png)
 ### USERS 테이블
 | field(Kor) | field(Eng) | Key | Type        |NULL Check|
 |------------|------------|-----|-------------|--|
